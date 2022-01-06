@@ -84,18 +84,15 @@ width: 40%;
     width: 100%;
 }
 .contact{
-    background: rgba(158, 186, 223, 0.377);
     padding: 10px;
     margin-bottom: 40px;
     border-radius: 10px;
     text-align: center;
     background-image: url('./images/pictures/pexels-alex-andrews-821754.jpg');
-    background-size: cover;
 }
 .contact a{
     margin-left: 10px;
     text-decoration: none;
-    vertical-align: center;
 }
 .contact img{
     width: 3%;
