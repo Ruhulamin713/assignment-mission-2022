@@ -1,0 +1,67 @@
+:root {
+  font-size: 18px;
+}
+/*
+font-family: 'Poppins', sans-serif;
+font-family: 'Yeseva One', cursive;
+*/
+body {
+  padding: 0 170px;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+}
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.half-width {
+  width: 50%;
+}
+.title {
+  line-height: 35px;
+  font-family: "Yeseva One", cursive;
+  font-size: 30px;
+  border-left: 3px solid #ff5959;
+  padding-left: 10px;
+}
+
+.half-width img {
+  width: 75%;
+  margin-left:80px;
+}
+.orange {
+  color: rgb(231, 162, 35);
+}
+.link{
+    text-decoration: none;
+    color: white;
+    padding: 8px 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(236, 96, 71), rgb(235, 79, 79));
+}
+.mission-title{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+}
+.mission-description{
+    margin: 0;
+    padding: 20px;
+    width: 250px;
+    height: 280px;
+    border-radius: 10px;
+}
+.illustrator{
+    width: 35%;
+} 
+.mission{
+    background: #4f9da627;
+}
+.vision{
+    background: #ff59591a;
+
+}
+.goal{
+    background: #FFF4D6;
+}
